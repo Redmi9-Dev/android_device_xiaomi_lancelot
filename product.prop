@@ -1,0 +1,10 @@
+Build.BRAND=MTK
+persist.device_config.runtime_native.usap_pool_enabled=false
+ro.com.google.acsa=true
+ro.com.google.gmsversion=11_202104
+ro.com.google.ime.system_lm_dir=product/usr/share/ime/google/d3_lms/
+ro.miui.build.region=global
+ro.opa.eligible_device=true
+ro.product.product.marketname=Redmi 9
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
